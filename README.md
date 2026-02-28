@@ -16,10 +16,8 @@
 ---
 
 ## 🚀 Tech Stack
-- 💻 Python | NumPy | Pandas  
+- 💻 Python | NumPy | Pandas  | Matplotlib | Data Visualization | sklearn
 - 👁 OpenCV | Mediapipe  
-- 🌐 HTML | CSS | JavaScript  
-- 🗄 PHP | MySQL  
 - 📊 Data Science & ML Algorithms  
 
 ---
@@ -49,9 +47,9 @@
 ---
 
 ## 🌍 Connect With Me
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🌐 Portfolio: https://yourwebsite.com  
+📧 Email: rgirase312@gmail.com 
+💼 LinkedIn: www.linkedin.com/in/rahulgirase
+ 
 
 ---
 
