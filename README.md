@@ -97,7 +97,7 @@ Full-stack counselling system with authentication & database integration.
 
 ---
 
-⭐ *"Building intelligent systems that solve real-world problems."*
+⭐ *"Building intelligent systems that solve real-world problems..."*
 
 ---
 
