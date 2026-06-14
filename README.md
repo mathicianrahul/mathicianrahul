@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rahul+Girase;AI+%26+ML+Engineer+in+Progress;Computer+Vision+%7C+Machine+Learning+%7C+Data+Science;Building+Intelligent+Systems+🚀" />
 </p>
 
-<h3 align="center">🚀 3rd Year AIML Student | ISBM College of Engineering, Pune</h3>
+<h3 align="center">🚀 Final Year AIML Student | ISBM College of Engineering, Pune</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 3rd Year AI & ML Student  
+🎓 Final Year AI & ML Student  
 🧠 Passionate about Machine Learning, Computer Vision & AI Automation  
 🌐 Built MHT-CET Counselling & College Prediction System  
 ✍️ Developed Air Drawing System using OpenCV & Mediapipe  
