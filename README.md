@@ -71,16 +71,15 @@ Full-stack counselling system with authentication & database integration.
 
 <br>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mathicianrahul&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mathicianrahul&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com/?user=mathicianrahul&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ## 📈 Contribution Activity
